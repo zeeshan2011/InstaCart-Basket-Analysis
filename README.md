@@ -22,7 +22,6 @@ Instacart, a leading online grocery store, seeks to optimize its marketing effor
 - **Python & Pandas:** For data cleaning and manipulation.
 - **Matplotlib & Seaborn:** For data visualization.
 - **Jupyter Notebook:** To document and present the analysis.
-- **SQL:** For querying and data extraction.
 
 ---
 
